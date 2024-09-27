@@ -1,1 +1,1 @@
-# Capture_de_flag_CTF
+# Capture de flag (CTF)
