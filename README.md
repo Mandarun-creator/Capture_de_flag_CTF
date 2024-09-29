@@ -1,1 +1,0 @@
-## Capture de flag (CTF)
